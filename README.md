@@ -65,7 +65,7 @@
   - [X] UITableViews
   - [X] UICollectionViews
 - [X] [`Layout`]()
-  - [ ] Frame-based
+  - [X] Frame-based
   - [X] Autolayout
 - [X] Navigation
 - [X] UIViewController
