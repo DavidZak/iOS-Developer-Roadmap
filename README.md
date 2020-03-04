@@ -48,12 +48,12 @@
   - [ ] Semaphors
   - [X] DispatchGroup
   - [X] DispatchWorkItem
-  - [X] DispatchSource
+  - [ ] DispatchSource
 - [ ] NSOperationQueue
 - [ ] Race condition
-- [ ] Deadlock
+- [X] Deadlock
 - [ ] Livelock
-- [ ] Readers/writers problem
+- [X] Readers/writers problem
 - [ ] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 - [ ] Runloop
 
